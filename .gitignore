@@ -1,0 +1,4 @@
+__pycache__/
+train-data/
+simpsons_model.keras
+training_df.pkl
